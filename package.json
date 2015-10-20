@@ -1,0 +1,19 @@
+{
+  "name": "journeyman",
+  "version": "1.0.0",
+  "description": "FRP playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/journeyman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/journeyman/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/journeyman#readme"
+}
